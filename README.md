@@ -1,2 +1,1 @@
 # spotx.public
-# spotx.public
